@@ -1,0 +1,33 @@
+C:\Users\RMYS\source\repos\bilgioyunu\bilgioyunu\obj\Debug\bilgioyunu.csprojAssemblyReference.cache
+C:\Users\RMYS\source\repos\bilgioyunu\bilgioyunu\obj\Debug\bilgioyunu.Form1.resources
+C:\Users\RMYS\source\repos\bilgioyunu\bilgioyunu\obj\Debug\bilgioyunu.Form2.resources
+C:\Users\RMYS\source\repos\bilgioyunu\bilgioyunu\obj\Debug\bilgioyunu.Properties.Resources.resources
+C:\Users\RMYS\source\repos\bilgioyunu\bilgioyunu\obj\Debug\bilgioyunu.csproj.GenerateResource.cache
+C:\Users\RMYS\source\repos\bilgioyunu\bilgioyunu\obj\Debug\bilgioyunu.csproj.CoreCompileInputs.cache
+C:\Users\RMYS\source\repos\bilgioyunu\bilgioyunu\bin\Debug\bilgioyunu.exe.config
+C:\Users\RMYS\source\repos\bilgioyunu\bilgioyunu\bin\Debug\bilgioyunu.exe
+C:\Users\RMYS\source\repos\bilgioyunu\bilgioyunu\bin\Debug\bilgioyunu.pdb
+C:\Users\RMYS\source\repos\bilgioyunu\bilgioyunu\obj\Debug\bilgioyunu.exe
+C:\Users\RMYS\source\repos\bilgioyunu\bilgioyunu\obj\Debug\bilgioyunu.pdb
+C:\Users\RMYS\Desktop\bilgioyunu\bilgioyunu\bin\Debug\bilgioyunu.exe.config
+C:\Users\RMYS\Desktop\bilgioyunu\bilgioyunu\bin\Debug\bilgioyunu.exe
+C:\Users\RMYS\Desktop\bilgioyunu\bilgioyunu\bin\Debug\bilgioyunu.pdb
+C:\Users\RMYS\Desktop\bilgioyunu\bilgioyunu\obj\Debug\bilgioyunu.csprojAssemblyReference.cache
+C:\Users\RMYS\Desktop\bilgioyunu\bilgioyunu\obj\Debug\bilgioyunu.Form1.resources
+C:\Users\RMYS\Desktop\bilgioyunu\bilgioyunu\obj\Debug\bilgioyunu.Form2.resources
+C:\Users\RMYS\Desktop\bilgioyunu\bilgioyunu\obj\Debug\bilgioyunu.Properties.Resources.resources
+C:\Users\RMYS\Desktop\bilgioyunu\bilgioyunu\obj\Debug\bilgioyunu.csproj.GenerateResource.cache
+C:\Users\RMYS\Desktop\bilgioyunu\bilgioyunu\obj\Debug\bilgioyunu.csproj.CoreCompileInputs.cache
+C:\Users\RMYS\Desktop\bilgioyunu\bilgioyunu\obj\Debug\bilgioyunu.exe
+C:\Users\RMYS\Desktop\bilgioyunu\bilgioyunu\obj\Debug\bilgioyunu.pdb
+C:\Users\RMYS\Desktop\1.dönem\bilgioyunu - Kopya\bilgioyunu\bin\Debug\bilgioyunu.exe.config
+C:\Users\RMYS\Desktop\1.dönem\bilgioyunu - Kopya\bilgioyunu\bin\Debug\bilgioyunu.exe
+C:\Users\RMYS\Desktop\1.dönem\bilgioyunu - Kopya\bilgioyunu\bin\Debug\bilgioyunu.pdb
+C:\Users\RMYS\Desktop\1.dönem\bilgioyunu - Kopya\bilgioyunu\obj\Debug\bilgioyunu.csprojAssemblyReference.cache
+C:\Users\RMYS\Desktop\1.dönem\bilgioyunu - Kopya\bilgioyunu\obj\Debug\bilgioyunu.Form1.resources
+C:\Users\RMYS\Desktop\1.dönem\bilgioyunu - Kopya\bilgioyunu\obj\Debug\bilgioyunu.Form2.resources
+C:\Users\RMYS\Desktop\1.dönem\bilgioyunu - Kopya\bilgioyunu\obj\Debug\bilgioyunu.Properties.Resources.resources
+C:\Users\RMYS\Desktop\1.dönem\bilgioyunu - Kopya\bilgioyunu\obj\Debug\bilgioyunu.csproj.GenerateResource.cache
+C:\Users\RMYS\Desktop\1.dönem\bilgioyunu - Kopya\bilgioyunu\obj\Debug\bilgioyunu.csproj.CoreCompileInputs.cache
+C:\Users\RMYS\Desktop\1.dönem\bilgioyunu - Kopya\bilgioyunu\obj\Debug\bilgioyunu.exe
+C:\Users\RMYS\Desktop\1.dönem\bilgioyunu - Kopya\bilgioyunu\obj\Debug\bilgioyunu.pdb
